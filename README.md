@@ -1,2 +1,2 @@
-# acampos.me
+# Controlador GPC con Matlab
 ---------
